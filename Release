@@ -1,0 +1,12 @@
+Origin: Lailaazmi ID
+Label: Lailaazmi ID
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Public repo for assorted packages
+
+SHA256:
+ cc6659c127d310ee6f5a82e5d02eb6350210fb88d377f785f7c344ae726779d7 2447 Packages.bz2
+ e9ea8931d6dd64d19ac1ac0c06f2e8468d499545cc005a05edef1cdb02191c9d 2264 Packages.xz
