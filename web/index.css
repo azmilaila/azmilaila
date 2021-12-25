@@ -219,6 +219,30 @@ a {
     float: right;
 }
 
+.goog-te-banner-frame{visibility:hidden !important;
+}
+
+#body-main{top:0px !important;
+}
+
+.goog-logo-link {
+   display:none !important;
+}
+
+.goog-te-gadget {
+   color: transparent !important;
+}
+
+.goog-te-balloon-frame { 
+   display: none;
+}
+
+#goog-gt-tt, .goog-te-balloon-frame{display: none !important;
+}
+
+.goog-text-highlight { background: none !important; box-shadow: none !important;
+}
+
 @media (prefers-color-scheme: dark) {
     body {
         background: #161616;
